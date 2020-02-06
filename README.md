@@ -9,7 +9,7 @@ pipenv install
 **Run the app:**
 ```
 pipenv shell
-FLASK_RUN_PORT=8011 FLASK_APP=file_upload.py flask run
+FLASK_RUN_PORT=5460 FLASK_APP=file_upload.py flask run
 ```
 
 **Ping the app:**
